@@ -1,4 +1,4 @@
-package web
+package web_golang
 
 import (
 	"net/http"
